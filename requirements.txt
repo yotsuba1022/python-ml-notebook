@@ -1,0 +1,14 @@
+numpy
+pandas
+pandas-datareader
+sqlalchemy
+lxml
+xlrd
+openpyxl
+html5lib
+BeautifulSoup4
+matplotlib
+seaborn
+plotly
+cufflinks
+scikit-learn
