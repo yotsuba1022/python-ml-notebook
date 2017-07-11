@@ -13,3 +13,4 @@ plotly
 cufflinks
 scikit-learn
 pydot
+nltk
